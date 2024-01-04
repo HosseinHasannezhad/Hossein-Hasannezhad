@@ -27,3 +27,7 @@ Hobbies: 🎵 📈 💱 📖 🔌 🎯 🏓 🛥️ 🏕️ 🚴‍♂️
 3. Patent 🕎
 
 GitHub Website: https://github.com/HosseinHasannezhad
+----
+[![Gmail Badge](https://img.shields.io/badge/-H_hasannezhad@yahoo.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:H_hasannezhad@yahoo.com)](mailto:H_hasannezhad@yahoo.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-inv--shahin-hasannezhad-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[ali-bakhshi](https://www.linkedin.com/in/inv-shahin-hasannezhad-2bb055173/)-/)](https://www.linkedin.com/in/[ali-bakhshi](https://www.linkedin.com/in/inv-shahin-hasannezhad-2bb055173/)-/)
+
