@@ -13,7 +13,7 @@ Researcher & Inventor
 🔎 Learning: Food Science and Technology
 
 🏆 Awards and honors
-• We have made a groundbreaking discovery in the field of probiotics a new yeast strain, officially registered in the National Canter for Biotechnology Information (NCBI) under the title 'Kluyveromyces marxianus HHA' and assigned the identification code OP257137.
+• The identification of a pioneering Probiotic yeast strain, formally recorded and acknowledged as 'Kluyveromyces Marxianus HHA' with GenBank accession number OP257137 in the National Center for Biotechnology Information (NCBI).
 • Silver medal of the International Invention and Innovation Competition 2023 IFIA, (Switzerland _ Geneva 2023).
 • Bronze medal of the International Invention and Innovation Competition 2021 IFIA, (Switzerland _ Geneva 2021).
 
